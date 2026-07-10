@@ -1,8 +1,8 @@
 # Problem Charter
 
 **Week:** 1  
-**Owner(s):** [Student names]  
-**Project:** [Project title]
+**Owner(s):** Pallavi Nawander, Mounika Punna, Vuyyuru Gayathri  
+**Project:** IPL Matchday 360
 
 ---
 
