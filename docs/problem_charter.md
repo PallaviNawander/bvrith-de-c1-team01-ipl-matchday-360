@@ -8,7 +8,7 @@
 
 ## 1. Problem Context
 
-Explain the domain in simple language.
+The IPL Matchday 360 project represents analysing the real time data produced during a IPL match and displaying it on a dashboard in the form of pie charts, graphs, win or loss probability. Data like number of runn scored, no,of wickets taken, bowler's economy & batter's runs is generated. Raw data is difficult to interpret so the need to analyse and represnt it arises
 
 Prompts:
 
