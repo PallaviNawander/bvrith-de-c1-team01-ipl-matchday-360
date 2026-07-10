@@ -1,4 +1,4 @@
-# [PROJECT TITLE]
+# [IPL-MATCHDAY-360]
 
 > **Student note:** Start with `00_START_HERE.md` and `00_TEMPLATE_INDEX.md`. The placeholder files inside this repo are the templates.
 
@@ -6,19 +6,15 @@
 **Program:** ZENAIZ x BVRIT Hyderabad Data Engineering Internship Program  
 **Track:** Data Engineering  
 **Duration:** 12 Weeks  
-**Team:** [Team Number / Team Name]  
-**Students:** [Student 1], [Student 2], [Student 3]  
+**Team:** [Team 01 / Team Name]  
+**Students:** [Pallavi Nawander], [Mounika Punna], [Vuyyuru Gayathri]  
 **AI Teammate:** Used responsibly for explanation, debugging, review, and documentation support.
 
 ---
 
 ## 1. Project Summary
 
-Write 5–8 lines explaining the assigned project.
-
-Example structure:
-
-- **Domain:** [Urban Mobility / IPL Matchday / Weather / etc.]
+- **Domain:** IPL Matchday 360
 - **Core engineering problem:** [What raw data needs to become trusted insight?]
 - **Main pipeline:** Raw Sources → Bronze → Silver → Data Quality → Gold → Power BI → Streaming Simulation
 - **Final outcome:** GitHub repo, Databricks notebooks, Gold outputs, Power BI dashboard, streaming simulation, final demo.
