@@ -2,14 +2,14 @@
 
 **Week:** 1  
 **Date range:** [Add dates]  
-**Team:** [Team name / number]  
-**Project:** [Project title]
+**Team:** [IPL-Matchday-360 / Team01]  
+**Project:** [IPL-Matchday-360]
 
 ---
 
 ## 1. Sprint Goal
 
-Write the goal for this week in 2–3 lines.
+For week 1, we created a github repository for our project and added all the necessary files. We created a README file and made all the necessary commits.
 
 ---
 
@@ -17,7 +17,7 @@ Write the goal for this week in 2–3 lines.
 
 | Task | Owner | Status | Evidence |
 |---|---|---|---|
-| [Task] | [Student] | [Done / In progress] | [file / screenshot / notebook] |
+| Created a new repo for the project | Pallavi Nawander | Done | [file / screenshot / notebook] |
 
 ---
 
@@ -48,10 +48,10 @@ Write the goal for this week in 2–3 lines.
 
 | Question | Response |
 |---|---|
-| Where AI helped | [Explain] |
-| What we changed after AI suggestion | [Explain] |
-| What we verified manually | [Explain] |
-| What we can explain without AI | [Explain] |
+| Where AI helped | To understand how to add collaborators |
+| What we changed after AI suggestion | We changed the access |
+| What we verified manually | All the team members |
+| What we can explain without AI | Probably the whole process we did by now |
 
 ---
 
