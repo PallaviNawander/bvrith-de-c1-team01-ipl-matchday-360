@@ -1,4 +1,4 @@
-# Week 01 Log — [Sprint Name]
+# Week 01 Log — First Week
 
 **Week:** 1  
 **Date range:** [10-7-2026 to 16-7-2026]  
