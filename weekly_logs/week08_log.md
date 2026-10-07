@@ -1,8 +1,8 @@
-# Week 08 Log — IPL Matchday 360
+# Week 08 Log — Explore and Build Power BI dashboard
 
 **Week:** 8  
 **Date range:** [Add actual Week 8 dates]  
-**Team:** [Add team name / number]  
+**Team:** [IPL MatchDay 360 /Team-01]  
 **Project:** IPL Matchday 360
 
 ---
