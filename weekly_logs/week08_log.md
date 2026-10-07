@@ -1,4 +1,4 @@
-# Week 08 Log — Explore and Build Power BI dashboard
+# Week 08 Log — Explore Power BI desktop
 
 **Week:** 8  
 **Date range:** [Add actual Week 8 dates]  
